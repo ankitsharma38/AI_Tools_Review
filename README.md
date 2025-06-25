@@ -10,6 +10,8 @@ https://www.tawk.to/
 https://median.co/
 
 
+[appalchemy.ai
+](https://appalchemy.ai/)
 
 ## Same
 
