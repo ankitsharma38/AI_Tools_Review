@@ -25,18 +25,6 @@
 
 ---
 
-## Video Calls
-
-[Google Meet](https://meet.google.com/ajn-jqhv-zmz) makes it simple to connect with others over video calls. It works right in your browser and is great for meetings, classes, or quick chats.
-
-### Key Features
-
-* Secure video and audio calls
-* Screen sharing support
-* Works without extra apps
-
----
-
 ## Chat Bot
 
 [Tawk.to](https://www.tawk.to/) is a free live chat tool that helps you talk to visitors on your website in real time.
