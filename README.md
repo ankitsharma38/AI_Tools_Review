@@ -3,6 +3,7 @@
 21.dev :- Best ui creation
 https://cvoice.ai/
 https://motion.dev/
+www.hover.dev
 
 
 ## Word File Editor
