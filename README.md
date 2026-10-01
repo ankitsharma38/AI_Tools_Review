@@ -6,6 +6,9 @@ https://motion.dev/
 www.hover.dev
 https://vectosolve.com/------------png to svg with inspect free
 
+
+https://aboveyellow.com/blog/vibe-coded-websites-look-premium
+
 ## Word File Editor
 
 [Word.new](https://word.new) lets you quickly create and edit Word documents online. It’s simple, fast, and works directly in your browser without needing extra software.
