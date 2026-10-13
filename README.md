@@ -1,10 +1,112 @@
 # Best Tools Overview
 
-21.dev :- Best ui creation
 https://cvoice.ai/
-https://motion.dev/
-www.hover.dev
+
+
 https://vectosolve.com/------------png to svg with inspect free
+
+
+# 🎨 UI Design Resources
+
+A curated collection of websites for UI inspiration, modern React components, animations, transitions, and creative landing page designs.
+
+---
+
+## 1. [VibePrompts](https://vibeprompts.dev/)
+
+A collection of UI prompts and design inspiration to help you create modern interfaces using AI coding tools.
+
+🔗 **Website:** https://vibeprompts.dev/
+
+[🔒 Copy Link](https://vibeprompts.dev/)
+
+---
+
+## 2. [Hover.dev](https://www.hover.dev/)
+
+Explore animated React and Tailwind CSS components, including interactive buttons, navigation menus, carousels, and hero sections.
+
+🔗 **Website:** https://www.hover.dev/
+
+[🔒 Copy Link](https://www.hover.dev/)
+
+---
+
+## 3. [Motion](https://motion.dev/)
+
+A powerful animation library for React. Learn to build smooth transitions, scroll animations, gestures, and interactive UI experiences.
+
+🔗 **Website:** https://motion.dev/
+
+[🔒 Copy Link](https://motion.dev/)
+
+---
+
+## 4. [Transitions.dev](https://transitions.dev/)
+
+Find inspiration for smooth UI transitions and interactive effects for menus, cards, modals, tabs, and other interface elements.
+
+🔗 **Website:** https://transitions.dev/
+
+[🔒 Copy Link](https://transitions.dev/)
+
+---
+
+## 5. [21st.dev](https://21st.dev/)
+
+Discover reusable React components, modern UI sections, landing page designs, and community-created components for your projects.
+
+🔗 **Website:** https://21st.dev/
+
+[🔒 Copy Link](https://21st.dev/)
+
+---
+
+## 6. [404s.design](https://www.404s.design/)
+
+Get creative inspiration for 404 error pages, empty states, and unique layouts that make your website more engaging.
+
+🔗 **Website:** https://www.404s.design/
+
+[🔒 Copy Link](https://www.404s.design/)
+
+---
+
+## 7. [Origin Kit](https://www.originkit.dev/)
+
+Explore reusable UI building blocks and interface patterns to speed up frontend development and create consistent designs.
+
+🔗 **Website:** https://www.originkit.dev/
+
+[🔒 Copy Link](https://www.originkit.dev/)
+
+---
+
+## 8. [OpenMotion](https://openmotion.design/)
+
+Explore motion design and animation inspiration for modern web interfaces, including visual effects and smooth interactive experiences.
+
+🔗 **Website:** https://openmotion.design/
+
+[🔒 Copy Link](https://openmotion.design/)
+
+---
+
+## 💡 Quick Tips
+
+- **UI Inspiration:** VibePrompts, 21st.dev
+- **React Components:** Hover.dev, 21st.dev, Origin Kit
+- **Animations:** Motion, Transitions.dev, OpenMotion
+- **Error Page Design:** 404s.design
+
+---
+
+### 📋 Copy Link Functionality
+
+The links above are clickable, but standard Markdown does not support a functional copy-to-clipboard button. The `🔒 Copy Link` labels above currently open the corresponding website.
+
+To add real copy buttons, use HTML with JavaScript in an HTML page or a custom GitHub Pages website. GitHub README files do not execute embedded JavaScript.
+
 
 
 https://aboveyellow.com/blog/vibe-coded-websites-look-premium
