@@ -10,6 +10,8 @@ https://vectosolve.com/------------png to svg with inspect free
 
 A curated collection of websites for UI inspiration, modern React components, animations, transitions, and creative landing page designs.
 
+https://abhijayvuyyuru.substack.com/p/how-to-make-your-website-not-look?mcp_token=eyJwaWQiOjMzMjQzMzAsInNpZCI6MTgyNjA4Njg5OSwiYXgiOiJhMDhlODg3MDVmMGYyM2VjZWMyNjBhODE4NGYyMDgwZSIsInRzIjoxNzkzOTM5NDYzLCJleHAiOjE3OTYzNTg2NjN9.VIu_S8enDg0_c6oaW8kc0lfsOJ8EN8RxT1jY8LEQLGc&fbclid=PAT01DUAVaN-RleHRuA2FlbQIxMABwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpyFwiDBU4IOwth2YiXdGoMwX7VX3NNkcEmSnvp_uSTYmVyL_lA1eI_uULi5m_aem_DWyMnxtzGkV5FfEsW9VMZQ
+
 ---
 
 ## 1. [VibePrompts](https://vibeprompts.dev/)
